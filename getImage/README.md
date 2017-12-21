@@ -10,12 +10,13 @@ Here are [installation instructions](https://github.com/mitsuhiko/pipsi#readme).
 
 Simply run:
 
-    $ pipsi install .
+    $ pipsi install --user .
 
 
 # Usage
 
 To use it:
 
-    $ getImage --help
+    $ getImage --h
+คำสั่งใช้ดูภาพ getImage your-name
 
